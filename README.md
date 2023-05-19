@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm 不要葱姜蒜.
 
 <!--
 **KMnO4-zx/KMnO4-zx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
