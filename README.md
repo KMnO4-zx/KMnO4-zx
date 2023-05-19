@@ -7,4 +7,4 @@
 
 - 📫 How to reach me:  zhixuehappy@qq.com
 
-![](https://github-readme-stats.vercel.app/api?username=KMnO4&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=KMnO4&show_icons=true&theme=light&count_private=true)
