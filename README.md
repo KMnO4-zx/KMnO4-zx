@@ -10,6 +10,4 @@
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=KMnO4-zx&count_private=true&include_all_commits=true" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMnO4-zx&hide_langs_below=1&theme=default&line_height=27&layout=compact" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMnO4-zx&layout=donut" />
-
 </div>
