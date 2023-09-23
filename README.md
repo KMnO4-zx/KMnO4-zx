@@ -11,13 +11,16 @@
 
 ## Interest 👨🏽‍💻
 - NLP : Large Language Model, Prompt Engineering and more things about NLP.
+
 - Language : Python, Pytorch and Markdown.
+
 - Theory : Voronoi algorithm.
 
 ## Open Source Experience 👯
 
 **As a manager** ：
 - [d2l-ai-solutions-manual](https://github.com/datawhalechina/d2l-ai-solutions-manual.git) : The answers to the exercises after class _**Dive into Deep Learning**_. ***动手学深度学习*** 习题解答项目~
+
 - [huanhuan-chat](https://github.com/KMnO4-zx/huanhuan-chat.git) : A chat robot based on ChatGLM2 likes Zhenhuan.
 
 **As a member** :
