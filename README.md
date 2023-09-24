@@ -14,7 +14,7 @@
 
 - Language : Python, Pytorch and Markdown.
 
-- Theory : Voronoi algorithm.
+- Theory : Voronoi diagram algorithm.
 
 ## Open Source Experience 👯
 
