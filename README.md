@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hi there 👋, I'm KMnO4-zx（不要葱姜蒜）.
+   Hi there 👋, I'm KMnO4-zx（不要葱姜蒜）
 </h1>
 
 ## About Me
