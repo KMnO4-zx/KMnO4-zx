@@ -2,6 +2,8 @@
    Hi there 👋, I'm KMnO4-zx（不要葱姜蒜）
 </h1>
 
+My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visitor.
+
 ## About Me
 - 🌱 I'm a graduate student, studying in Henan Polytechnic University (HPU).
 
@@ -25,6 +27,14 @@
 
 **As a member** :
 - [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers.git) : A chinese tutorial of ChatGPT for Developers, contains three classes of AndrewNg.
+
+- [Datawhale NLP 夏令营-Baseline](https://datawhaler.feishu.cn/docx/R5fcd2hWIoVAhBxytu1cotSbnne): A baseline for the iFLYTEK algorithm competition, a core class in DataWhale AI summer camp.
+## Competition
+- [科大讯飞算法赛-基于论文摘要的文本分类与关键词抽取挑战赛](http://challenge.xfyun.cn/topic/info?type=abstract-of-the-paper): NLP competition of iFLYTEK, **Top 3**.
+
+- [科大讯飞算法赛-人岗匹配挑战赛](http://challenge.xfyun.cn/topic/info?type=person-post-matching-2023): NLP competition of iFLYTEK, **Top3**.
+
+- [星火杯认知大模型场景创新赛](http://challenge.xfyun.cn/xinghuo)：LLM competition of iFLYTEK, **Top 50**, still in competition.
 
 ## GitHub Stats 📫
 
