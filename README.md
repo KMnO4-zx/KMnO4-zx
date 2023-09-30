@@ -1,6 +1,6 @@
-<h1 align="center">
-   Hi there 👋, I'm KMnO4-zx（不要葱姜蒜）
-</h1>
+<div align="center">
+    <img src="image/readme_file.png">
+</div>
 
 My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visitor.
 
@@ -42,4 +42,3 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=KMnO4-zx&show_icons=true&theme=light" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMnO4-zx&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 </div>
-
