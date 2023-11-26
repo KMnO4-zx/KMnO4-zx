@@ -25,10 +25,13 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 
 - [huanhuan-chat](https://github.com/KMnO4-zx/huanhuan-chat.git) : A chat robot based on ChatGLM2 likes Zhenhuan.
 
+- [self-llm](https://github.com/KMnO4-zx/self_llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南~
+
 **As a member** :
 - [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers.git) : A chinese tutorial of ChatGPT for Developers, contains three classes of AndrewNg.
 
-- [Datawhale NLP 夏令营-Baseline](https://vj6fpcxa05.feishu.cn/docx/DIged2HfIojIYlxWP9Hc2x0UnVd): A baseline for the iFLYTEK algorithm competition, a core class in DataWhale AI summer camp.
+- [Datawhale NLP 夏令营-Baseline](https://vj6fpcxa05.feishu.cn/docx/DIged2HfIojIYlxWP9Hc2x0UnVd): A baseline for the iFLYTEK algorithm competition, a core class in DataWhale AI summer camp.4
+
 ## Competition
 - [科大讯飞算法赛-基于论文摘要的文本分类与关键词抽取挑战赛](http://challenge.xfyun.cn/topic/info?type=abstract-of-the-paper): NLP competition of iFLYTEK, **Top 3**.
 
