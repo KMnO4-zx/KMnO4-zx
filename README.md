@@ -9,8 +9,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 
 - 💬 My research direction is global discrete grid and method of generation Voronoi diagram.
 
-- 📫 How to reach me:  zhixuehappy@qq.com
-
 ## Interest 👨🏽‍💻
 - NLP : Large Language Model, Prompt Engineering and more things about NLP.
 
