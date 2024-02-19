@@ -4,10 +4,12 @@
 
 My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visitor.
 
-## About Me
+## About Me  
 - 🌱 I'm a graduate student, studying in Henan Polytechnic University (HPU).
 
 - 💬 My research direction is global discrete grid and method of generation Voronoi diagram.
+
+- ![GitHub stars](https://img.shields.io/github/stars/KMnO4-zx)
 
 ## Interest 👨🏽‍💻
 - NLP : Large Language Model, Prompt Engineering and more things about NLP.
