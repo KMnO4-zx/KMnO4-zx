@@ -11,6 +11,12 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 
 - ![GitHub stars](https://img.shields.io/github/stars/KMnO4-zx)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KMnO4-zx/KMnO4-zx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KMnO4-zx/KMnO4-zx//output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KMnO4-zx/KMnO4-zx/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Interest 👨🏽‍💻
 - NLP : Large Language Model, Prompt Engineering and more things about NLP.
 
