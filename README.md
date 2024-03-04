@@ -29,7 +29,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 
 - [huanhuan-chat](https://github.com/KMnO4-zx/huanhuan-chat.git) : A chat robot based on ChatGLM2 likes Zhenhuan.
 
-- [self-llm](https://github.com/KMnO4-zx/self_llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南~
+- [self-llm](https://github.com/datawhalechina/self-llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南~
 
 **As a member** :
 - [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers.git) : A chinese tutorial of ChatGPT for Developers, contains three classes of AndrewNg.
