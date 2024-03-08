@@ -31,14 +31,14 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 
 - [self-llm](https://github.com/datawhalechina/self-llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南~
 
+- [AMchat](https://github.com/AXYZdong/AMchat.git) ： AM (Advanced Mathematics) chat 是一个集成了数学知识和高等数学习题及其解答的大语言模型。
+
 **As a member** :
 - [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers.git) : A chinese tutorial of ChatGPT for Developers, contains three classes of AndrewNg.
 
 - [Datawhale NLP 夏令营-Baseline](https://vj6fpcxa05.feishu.cn/docx/DIged2HfIojIYlxWP9Hc2x0UnVd): A baseline for the iFLYTEK algorithm competition, a core class in DataWhale AI summer camp.4
 
 - [InternLM-tutorial](https://github.com/InternLM/tutorial.git) ：书生·浦语大模型实战营，第二节《轻松分钟玩转书生·浦语大模型趣味 Demo》负责人~
-
-- [AMchat](https://github.com/AXYZdong/AMchat.git) ： AM (Advanced Mathematics) chat 是一个集成了数学知识和高等数学习题及其解答的大语言模型。
 
 ## Competition
 - [科大讯飞算法赛-基于论文摘要的文本分类与关键词抽取挑战赛](http://challenge.xfyun.cn/topic/info?type=abstract-of-the-paper): NLP competition of iFLYTEK, **Top 3**.
