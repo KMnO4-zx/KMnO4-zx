@@ -29,7 +29,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 
 - [huanhuan-chat](https://github.com/KMnO4-zx/huanhuan-chat.git) : A chat robot based on ChatGLM2 likes Zhenhuan.
 
-- [self-llm](https://github.com/datawhalechina/self-llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南~
+- [self-llm](https://github.com/datawhalechina/self-llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南，Github 1k star ~
 
 - [AMchat](https://github.com/AXYZdong/AMchat.git) ： AM (Advanced Mathematics) chat 是一个集成了数学知识和高等数学习题及其解答的大语言模型。
 
