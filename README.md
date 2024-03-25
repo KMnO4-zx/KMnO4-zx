@@ -42,9 +42,10 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 - [InternLM-tutorial](https://github.com/InternLM/tutorial.git) ：书生·浦语大模型实战营，第二节《轻松分钟玩转书生·浦语大模型趣味 Demo》负责人~
 
 ## Competition
-- chat嬛嬛，获得书生·浦语大模型挑战赛（春季赛）Top12，创意应用奖。
 
-- AMchat，获得书生·浦语大模型挑战赛（春季赛）Top12，创意应用奖。
+- chat嬛嬛，获得[书生·浦语大模型挑战赛（春季赛）Top12](https://mp.weixin.qq.com/s/8Xh232cWplgg3qdfMdD0YQ)，创意应用奖。
+
+- AMchat，获得[书生·浦语大模型挑战赛（春季赛）Top12](https://mp.weixin.qq.com/s/8Xh232cWplgg3qdfMdD0YQ)，创意应用奖。
 
 - [科大讯飞算法赛-基于论文摘要的文本分类与关键词抽取挑战赛](http://challenge.xfyun.cn/topic/info?type=abstract-of-the-paper): NLP competition of iFLYTEK, **Top 3**.
 
