@@ -28,13 +28,15 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 
 **As a manager** ：
 
-- [self-llm](https://github.com/datawhalechina/self-llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南，_**Github 3k star，并多次登顶 Github Trending！**_
+- [self-llm](https://github.com/datawhalechina/self-llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南，_**Github 4k star，并多次登顶 Github Trending！**_
 
 - [huanhuan-chat](https://github.com/KMnO4-zx/huanhuan-chat.git) : A chat robot based on ChatGLM2 likes Zhenhuan。
 
 - [AMchat](https://github.com/AXYZdong/AMchat.git) ： AM (Advanced Mathematics) chat 是一个集成了数学知识和高等数学习题及其解答的大语言模型。
 
 - [d2l-ai-solutions-manual](https://github.com/datawhalechina/d2l-ai-solutions-manual.git) : The answers to the exercises after class _**Dive into Deep Learning**_. ***动手学深度学习*** 习题解答项目~
+
+- [tiny-universe](https://github.com/datawhalechina/tiny-universe) : 《大模型白盒子构建指南》致力于从零手搓大模型相关任务，如：RAG、Agent、Eval等等。
 
 **As a member** :
 - [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers.git) : A chinese tutorial of ChatGPT for Developers, contains three classes of AndrewNg.
