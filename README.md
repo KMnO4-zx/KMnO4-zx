@@ -5,11 +5,11 @@
 My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visitor.
 
 ## About Me  
-- 🌱 I'm a graduate student, studying in Henan Polytechnic University (HPU).
+- 🌱 I'm a graduate student, studying in Henan Polytechnic University (HPU)
 
-- 💬 My research direction is global discrete grid and method of generation Voronoi diagram.
+- 💬 My research direction is global discrete grid and method of generation Voronoi diagram
 
-- ⭐ Datawhale members, InternLM community IOPMC SIG RAG Manager.
+- ⭐ Datawhale members, InternLM community IOPMC SIG RAG Manager
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KMnO4-zx/KMnO4-zx/output/github-contribution-grid-snake-dark.svg">
