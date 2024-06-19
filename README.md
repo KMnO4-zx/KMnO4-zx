@@ -5,7 +5,7 @@
 My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visitor.
 
 ## About Me  
-- 🌱 I'm a graduate student, studying in Henan Polytechnic University (HPU)
+- 🌱 I'm a graduate student, studying in Henan Polytechnic University (HPU), and leave soon.
 
 - 💬 My research direction is global discrete grid and method of generation Voronoi diagram
 
