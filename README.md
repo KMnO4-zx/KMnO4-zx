@@ -36,7 +36,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 
 - [d2l-ai-solutions-manual](https://github.com/datawhalechina/d2l-ai-solutions-manual.git) : The answers to the exercises after class _**Dive into Deep Learning**_. ***动手学深度学习*** 习题解答项目~
 
-- [tiny-universe](https://github.com/datawhalechina/tiny-universe) : 《大模型白盒子构建指南》致力于从零手搓大模型相关任务，如：RAG、Agent、Eval等等，Github 1k star.
+- [tiny-universe](https://github.com/datawhalechina/tiny-universe) : 《大模型白盒子构建指南》致力于从零手搓大模型相关任务，如：RAG、Agent、Eval等等，Github 1.1k star.
 
 **As a member** :
 - [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers.git) : A chinese tutorial of ChatGPT for Developers, contains three classes of AndrewNg.
