@@ -7,7 +7,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 ## About Me  
 - 🌱 I am a PhD student at China University of Mining & Technology, Beijing.
 
-- 💬 My research direction is global discrete grid and method of generation Voronoi diagram.
+- 💬 My research direction is satellite mission plan(AEOSP) and LLM.
 
 - ⭐ Datawhale Members.
 
