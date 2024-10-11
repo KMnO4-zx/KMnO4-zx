@@ -45,6 +45,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 
 - [InternLM-tutorial](https://github.com/InternLM/tutorial.git) ：书生·浦语大模型实战营，第二节《轻松分钟玩转书生·浦语大模型趣味 Demo》负责人~
 
+- [Tianji](https://github.com/SocialAI-tianji/Tianji): An AI system which can be utilized for tasks involving worldly wisdom to enhance your emotional intelligence.
+
 ## Competition
 
 - chat嬛嬛，获得[书生·浦语大模型挑战赛（春季赛）Top12](https://mp.weixin.qq.com/s/8Xh232cWplgg3qdfMdD0YQ)，创意应用奖。
