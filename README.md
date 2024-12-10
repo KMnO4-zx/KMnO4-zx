@@ -11,6 +11,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 
 - ⭐ Datawhale Members.
 
+- 🌟 Developer of GitHub projects with 10,000+ stars
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KMnO4-zx/KMnO4-zx/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KMnO4-zx/KMnO4-zx//output/github-contribution-grid-snake.svg">
