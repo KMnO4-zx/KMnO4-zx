@@ -13,7 +13,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 
 - 🌟 Developer of GitHub projects with 10,000+ stars
 
-- 📧 You can reach me at: [Link](kmno4-song@foxmail.com)
+- 📧 You can reach me at: kmno4-song@foxmail.com
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KMnO4-zx/KMnO4-zx/output/github-contribution-grid-snake-dark.svg">
