@@ -32,9 +32,9 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 
 **As a manager** ：
 
-- [self-llm](https://github.com/datawhalechina/self-llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南，_**Github 10k star，并多次登顶 Github Trending！**_
+- [self-llm](https://github.com/datawhalechina/self-llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南，_**Github 11.7k star，并多次登顶 Github Trending！**_
 
-- [tiny-universe](https://github.com/datawhalechina/tiny-universe) : 《大模型白盒子构建指南》致力于从零手搓大模型相关任务，如：RAG、Agent、Eval等等，Github 1.7k star.
+- [tiny-universe](https://github.com/datawhalechina/tiny-universe) : 《大模型白盒子构建指南》致力于从零手搓大模型相关任务，如：RAG、Agent、Eval等等，Github 2.0k star.
 
 - [huanhuan-chat](https://github.com/KMnO4-zx/huanhuan-chat.git) : A chat robot based on ChatGLM2 likes Zhenhuan。
 
