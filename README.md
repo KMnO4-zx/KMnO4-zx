@@ -2,7 +2,10 @@
     <img src="image/readme_file.png">
 </div>
 
-My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visitor.
+***👋 Hi here, I'm KMnO4-zx (不要葱姜蒜) .***
+
+<a href="https://www.zhihu.com/people/feng-qi-xia-pian" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Zhihu-知乎-4362f6"></a>
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=KMnO4-zx.KMnO4-zx)](https://github.com/KMnO4-zx/KMnO4-zx)
 
 ## About Me  
 - 🌱 I am a PhD student at China University of Mining & Technology, Beijing.
