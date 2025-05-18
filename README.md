@@ -65,7 +65,10 @@ My ![Visitor Count](https://profile-counter.glitch.me/KMnO4-zx/count.svg) Visito
 
 ## GitHub Stats 📫
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=KMnO4-zx&show_icons=true&theme=light" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMnO4-zx&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=KMnO4-zx&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=KMnO4-zx&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
+    align="left" />
+</picture>
