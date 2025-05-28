@@ -35,6 +35,8 @@
 
 **As a manager** ：
 
+- [Happy-LLM](https://github.com/datawhalechina/happy-llm) ：📚 从零开始的大语言模型原理与实践教程, 深入理解 LLM 核心原理，动手实现你的第一个大模型。
+  
 - [self-llm](https://github.com/datawhalechina/self-llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南，_**Github 11.7k star，并多次登顶 Github Trending！**_
 
 - [tiny-universe](https://github.com/datawhalechina/tiny-universe) : 《大模型白盒子构建指南》致力于从零手搓大模型相关任务，如：RAG、Agent、Eval等等，Github 2.0k star.
