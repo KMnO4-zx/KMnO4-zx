@@ -5,6 +5,7 @@
 ***👋 Hi here, I'm KMnO4-zx (不要葱姜蒜) .***
 
 <a href="https://www.zhihu.com/people/feng-qi-xia-pian" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Zhihu-知乎-4362f6"></a>
+<a href="https://www.xiaohongshu.com/user/profile/63c2055e000000002502c58c" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Rednote-小红书-e93c49"></a>
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=KMnO4-zx.KMnO4-zx)](https://github.com/KMnO4-zx)
 
 ## About Me  
