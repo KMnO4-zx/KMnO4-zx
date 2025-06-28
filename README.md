@@ -11,7 +11,7 @@
 ## About Me  
 - 🌱 I am a PhD student at China University of Mining & Technology, Beijing.
 
-- 💬 My research direction is satellite mission plan(AEOSP) and LLM.
+- 💬 My research direction is City LLM.
 
 - ⭐ Datawhale Members.
 
@@ -56,6 +56,14 @@
 - [InternLM-tutorial](https://github.com/InternLM/tutorial.git) ：书生·浦语大模型实战营，第二节《轻松分钟玩转书生·浦语大模型趣味 Demo》负责人~
 
 - [Tianji](https://github.com/SocialAI-tianji/Tianji): An AI system which can be utilized for tasks involving worldly wisdom to enhance your emotional intelligence.
+
+## Internship Experience 🏢
+
+- 2024.06 - 2024.08 **Yunqi Academy of Engineering** - Research Assistant
+  - Conducted research on applying large language models to urban management scenarios and published a research paper.
+  - Investigated potential applications of LLMs in city administration, planning and governance.
+  - Paper: [*What can LLM tell us about cities?*](https://arxiv.org/abs/2411.16791)
+
 
 ## Competition
 
