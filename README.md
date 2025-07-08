@@ -13,8 +13,6 @@
 
 - 💬 My research direction is City LLM.
 
-- ⭐ Datawhale Members.
-
 - 🌟 Developer of GitHub projects with 10,000+ stars
 
 - 📧 You can reach me at: kmno4-song@foxmail.com
