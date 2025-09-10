@@ -9,7 +9,7 @@
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=KMnO4-zx.KMnO4-zx)](https://github.com/KMnO4-zx)
 
 ## About Me  
-- 🌱 I am a PhD student at China University of Mining & Technology, Beijing.
+- 🌱 I am actively looking for PhD opportunities for 2026 or 2027.
 
 - 💬 My research direction is City LLM.
 
