@@ -2,7 +2,11 @@
     <img src="image/readme_file.png">
 </div>
 
-***👋 Hi here, I'm KMnO4-zx (不要葱姜蒜) .***
+<div align="center">
+<b><i>👋&nbsp;Hi here, I'm KMnO4-zx (不要葱姜蒜)</i></b>
+<br>
+<i>🫡&nbsp;Passsion is all you need!</i> 
+</div>
 
 <a href="https://www.zhihu.com/people/feng-qi-xia-pian" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Zhihu-知乎-4362f6"></a>
 <a href="https://www.xiaohongshu.com/user/profile/63c2055e000000002502c58c" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Rednote-小红书-e93c49"></a>
@@ -11,9 +15,9 @@
 ## About Me  
 - 🌱 I am actively looking for PhD opportunities for 2026 or 2027.
 
-- 💬 My research direction is City LLM.
+- 💬 My research direction is LLM.
 
-- 🌟 Developer of GitHub projects with 10,000+ stars
+- 🌟 Developer of GitHub projects with 45,000+ stars
 
 - 📧 You can reach me at: kmno4-song@foxmail.com
 
@@ -24,7 +28,8 @@
 </picture>
 
 ## Interest 👨🏽‍💻
-- NLP : Large Language Model, Prompt Engineering and more things about NLP.
+
+- NLP : Large Language Model, Diffusion LLMs.
 
 - Language : Python, Pytorch and Markdown.
 
