@@ -5,7 +5,7 @@
 <div align="center">
 <b><i>👋&nbsp;Hi here, I'm KMnO4-zx (不要葱姜蒜)</i></b>
 <br>
-<i>🫡&nbsp;Passsion is all you need!</i> 
+<i>🫡&nbsp;Time is all you need!</i> 
 </div>
 
 <div align="center">
