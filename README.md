@@ -81,23 +81,13 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-one-bice.vercel.app/api?username=KMnO4-zx&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-    <img
-      alt="KMnO4-zx's GitHub stats"
-      height="180"
-      src="https://github-readme-stats-one-bice.vercel.app/api?username=KMnO4-zx&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KMnO4-zx&layout=compact&langs_count=8&theme=github_dark&hide_title=true&hide_border=true">
-    <img
-      alt="KMnO4-zx's most used languages"
-      height="180"
-      src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KMnO4-zx&layout=compact&langs_count=8&bg_color=ffffff&hide_title=true&hide_border=true">
-  </picture>
-</div>
+<p align="center">
+  <img
+    alt="KMnO4-zx's GitHub stats"
+    height="180"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=KMnO4-zx&show_icons=true&theme=transparent&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+  <img
+    alt="KMnO4-zx's most used languages"
+    height="180"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KMnO4-zx&layout=compact&langs_count=8&theme=transparent&hide_title=true&hide_border=true">
+</p>
