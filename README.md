@@ -2,12 +2,9 @@
   <img src="image/readme_file.png" width="100%" alt="KMnO4-zx banner">
 </div>
 
-<h1 align="center">Hi, I'm KMnO4-zx 👋</h1>
-
 <p align="center">
-  <b>不要葱姜蒜</b>
   <br>
-  <i>Time is all you need!</i>
+  <i>靡不有初，鲜克有终。</i>
 </p>
 
 <p align="center">
