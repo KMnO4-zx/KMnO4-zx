@@ -82,12 +82,5 @@
 ## GitHub Stats
 
 <p align="center">
-  <img
-    alt="KMnO4-zx's GitHub stats"
-    height="180"
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=KMnO4-zx&show_icons=true&theme=transparent&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-  <img
-    alt="KMnO4-zx's most used languages"
-    height="180"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KMnO4-zx&layout=compact&langs_count=8&theme=transparent&hide_title=true&hide_border=true">
+  <img width="48%" alt="KMnO4-zx's GitHub stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=KMnO4-zx&show_icons=true&theme=transparent&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"><img width="48%" alt="KMnO4-zx's most used languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KMnO4-zx&layout=compact&langs_count=8&theme=transparent&hide_title=true&hide_border=true">
 </p>
