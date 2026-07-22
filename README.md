@@ -1,95 +1,106 @@
 <div align="center">
-    <img src="image/readme_file.png">
+  <img src="image/readme_file.png" width="100%" alt="KMnO4-zx banner">
 </div>
+
+<h1 align="center">Hi, I'm KMnO4-zx 👋</h1>
+
+<p align="center">
+  <b>不要葱姜蒜</b>
+  <br>
+  <i>Time is all you need!</i>
+</p>
+
+<p align="center">
+  <a href="https://www.zhihu.com/people/feng-qi-xia-pian"><img alt="Zhihu" src="https://img.shields.io/badge/Zhihu-知乎-4362F6?style=flat"></a>
+  <a href="https://www.xiaohongshu.com/user/profile/63c2055e000000002502c58c"><img alt="Xiaohongshu" src="https://img.shields.io/badge/Xiaohongshu-小红书-FF2442?style=flat"></a>
+  <a href="mailto:kmno4-song@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-6A5ACD?style=flat"></a>
+  <a href="https://github.com/KMnO4-zx"><img alt="Profile visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KMnO4-zx.KMnO4-zx"></a>
+</p>
+
+## About Me
+
+- 🔬 Open-source developer and researcher focused on **Agent RL**, **LLM post-training**, and **AI agents**.
+- 🌟 Developer and maintainer of open-source projects with **100,000+ GitHub stars** in total.
+- 🧪 Researcher at **Emotion Machine Lab**, also working on growth and developer/community operations.
+- 📫 Reach me at **kmno4-song@foxmail.com**.
 
 <div align="center">
-<b><i>👋&nbsp;Hi here, I'm KMnO4-zx (不要葱姜蒜)</i></b>
-<br>
-<i>🫡&nbsp;Time is all you need!</i> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KMnO4-zx/KMnO4-zx/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KMnO4-zx/KMnO4-zx/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/KMnO4-zx/KMnO4-zx/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+## Research Interests
+
+- **Agent RL** — reinforcement learning for reasoning, tool use, and multi-turn agents.
+- **LLM Post-training** — alignment, feedback mechanisms, and efficient post-training methods.
+- **AI Agents** — agentic systems, research agents, and evaluation.
+
+## Open Source Experience
+
+### Maintainer & Creator
+
+- [**Happy-LLM**](https://github.com/datawhalechina/happy-llm) — A from-scratch guide to LLM fundamentals and implementation. [![Happy-LLM stars](https://img.shields.io/github/stars/datawhalechina/happy-llm?style=flat&label=Stars&color=2f81f7)](https://github.com/datawhalechina/happy-llm/stargazers)
+- [**self-llm**](https://github.com/datawhalechina/self-llm) — A practical guide to deploying and fine-tuning open-source LLMs. [![self-llm stars](https://img.shields.io/github/stars/datawhalechina/self-llm?style=flat&label=Stars&color=2f81f7)](https://github.com/datawhalechina/self-llm/stargazers)
+- [**tiny-universe**](https://github.com/datawhalechina/tiny-universe) — Hands-on implementations of RAG, agents, evaluation, and other LLM systems. [![tiny-universe stars](https://img.shields.io/github/stars/datawhalechina/tiny-universe?style=flat&label=Stars&color=2f81f7)](https://github.com/datawhalechina/tiny-universe/stargazers)
+- [**llm-agent-rl-lab**](https://github.com/KMnO4-zx/llm-agent-rl-lab) — Reproductions and studies of RL algorithms for LLM agents. [![llm-agent-rl-lab stars](https://img.shields.io/github/stars/KMnO4-zx/llm-agent-rl-lab?style=flat&label=Stars&color=2f81f7)](https://github.com/KMnO4-zx/llm-agent-rl-lab/stargazers)
+- [**paper-insight**](https://github.com/KMnO4-zx/paper-insight) — An AI-powered platform for paper analysis and research workflows. [![paper-insight stars](https://img.shields.io/github/stars/KMnO4-zx/paper-insight?style=flat&label=Stars&color=2f81f7)](https://github.com/KMnO4-zx/paper-insight/stargazers)
+- [**huanhuan-chat**](https://github.com/KMnO4-zx/huanhuan-chat) — A ChatGLM-based character chatbot fine-tuned on dialogue from *Empresses in the Palace*. [![huanhuan-chat stars](https://img.shields.io/github/stars/KMnO4-zx/huanhuan-chat?style=flat&label=Stars&color=2f81f7)](https://github.com/KMnO4-zx/huanhuan-chat/stargazers)
+- [**AMchat**](https://github.com/AXYZdong/AMchat) — An LLM-powered assistant for advanced mathematics. [![AMchat stars](https://img.shields.io/github/stars/AXYZdong/AMchat?style=flat&label=Stars&color=2f81f7)](https://github.com/AXYZdong/AMchat/stargazers)
+- [**d2l-ai-solutions-manual**](https://github.com/datawhalechina/d2l-ai-solutions-manual) — Community solutions for *Dive into Deep Learning* exercises. [![d2l-ai-solutions-manual stars](https://img.shields.io/github/stars/datawhalechina/d2l-ai-solutions-manual?style=flat&label=Stars&color=2f81f7)](https://github.com/datawhalechina/d2l-ai-solutions-manual/stargazers)
+
+### Contributor
+
+- [**prompt-engineering-for-developers**](https://github.com/datawhalechina/prompt-engineering-for-developers) — Chinese learning materials for Andrew Ng's prompt engineering courses. [![prompt-engineering-for-developers stars](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers?style=flat&label=Stars&color=2f81f7)](https://github.com/datawhalechina/prompt-engineering-for-developers/stargazers)
+- [**InternLM Tutorial**](https://github.com/InternLM/tutorial) — Hands-on tutorials and demos for the InternLM ecosystem. [![InternLM Tutorial stars](https://img.shields.io/github/stars/InternLM/tutorial?style=flat&label=Stars&color=2f81f7)](https://github.com/InternLM/tutorial/stargazers)
+- [**Tianji**](https://github.com/SocialAI-tianji/Tianji) — An open-source system for building socially intelligent AI agents. [![Tianji stars](https://img.shields.io/github/stars/SocialAI-tianji/Tianji?style=flat&label=Stars&color=2f81f7)](https://github.com/SocialAI-tianji/Tianji/stargazers)
+
+## Research & Work Experience
+
+### Emotion Machine Lab — Researcher & Growth Operations
+
+*Present*
+
+- Conduct research on Agent RL, LLM post-training, and agentic systems.
+- Work across developer growth, community operations, and the open-source ecosystem.
+
+### Westlake University, AGI Lab — Research Assistant
+
+- Researched multimodal model behavior and safety with Prof. Chi Zhang; first-authored [*Hard to Read, Easy to Jailbreak*](https://aclanthology.org/2026.findings-acl.983/) at Findings of ACL 2026.
+
+### Yunqi Academy of Engineering — Research Assistant
+
+*Jun 2024 – Aug 2024*
+
+- Studied LLM applications in urban governance and co-authored [*What can LLM tell us about cities?*](https://arxiv.org/abs/2411.16791).
+
+## Selected Publications
+
+- **[Hard to Read, Easy to Jailbreak: How Visual Degradation Bypasses MLLM Safety Alignment](https://aclanthology.org/2026.findings-acl.983/)** — Findings of ACL 2026. *(First author)*
+- **[What can LLM tell us about cities?](https://arxiv.org/abs/2411.16791)** — arXiv, 2024.
+- **[A Raster Voronoi Diagram Generating Algorithm Using Edge Attribution and Bilateral Scanning](https://ch.whu.edu.cn/article/doi/10.13203/j.whugis20220110)** — *Geomatics and Information Science of Wuhan University*, 2024.
+
+## GitHub Stats
 
 <div align="center">
-<br>
-<a href="https://www.zhihu.com/people/feng-qi-xia-pian" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Zhihu-知乎-4362f6"></a>
-<a href="https://www.xiaohongshu.com/user/profile/63c2055e000000002502c58c" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Rednote-小红书-e93c49"></a>
-<a href="https://github.com/KMnO4-zx"><img src="https://visitor-badge.laobi.icu/badge?page_id=KMnO4-zx.KMnO4-zx" alt="visitors"></a>
-<br>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-one-bice.vercel.app/api?username=KMnO4-zx&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+    <img
+      alt="KMnO4-zx's GitHub stats"
+      height="180"
+      src="https://github-readme-stats-one-bice.vercel.app/api?username=KMnO4-zx&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KMnO4-zx&layout=compact&langs_count=8&theme=github_dark&hide_title=true&hide_border=true">
+    <img
+      alt="KMnO4-zx's most used languages"
+      height="180"
+      src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KMnO4-zx&layout=compact&langs_count=8&bg_color=ffffff&hide_title=true&hide_border=true">
+  </picture>
 </div>
-
-## About Me  
-- 🌱 I am actively looking for PhD opportunities for 2026 or 2027.
-
-- 💬 My research direction is LLM.
-
-- 🌟 Developer of GitHub projects with 45,000+ stars
-
-- 📧 You can reach me at: kmno4-song@foxmail.com
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KMnO4-zx/KMnO4-zx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KMnO4-zx/KMnO4-zx//output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KMnO4-zx/KMnO4-zx/output/github-contribution-grid-snake.svg">
-</picture>
-
-## Interest 👨🏽‍💻
-
-- NLP : Large Language Model, Diffusion LLMs.
-
-- Language : Python, Pytorch and Markdown.
-
-- Theory : Voronoi diagram algorithm.
-
-## Open Source Experience 👯
-
-**As a manager** ：
-
-- [Happy-LLM](https://github.com/datawhalechina/happy-llm) ：📚 从零开始的大语言模型原理与实践教程, 深入理解 LLM 核心原理，动手实现你的第一个大模型, _**Github 10.1k star，并多次登顶 Github Trending！**_
-  
-- [self-llm](https://github.com/datawhalechina/self-llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南，_**Github 21.2k star，并多次登顶 Github Trending！**_
-
-- [tiny-universe](https://github.com/datawhalechina/tiny-universe) : 《大模型白盒子构建指南》致力于从零手搓大模型相关任务，如：RAG、Agent、Eval等等，Github 3.3k star.
-
-- [huanhuan-chat](https://github.com/KMnO4-zx/huanhuan-chat.git) : A chat robot based on ChatGLM2 likes Zhenhuan。
-
-- [AMchat](https://github.com/AXYZdong/AMchat.git) ： AM (Advanced Mathematics) chat 是一个集成了数学知识和高等数学习题及其解答的大语言模型。
-
-- [d2l-ai-solutions-manual](https://github.com/datawhalechina/d2l-ai-solutions-manual.git) : The answers to the exercises after class _**Dive into Deep Learning**_. ***动手学深度学习*** 习题解答项目~
-
-**As a member** :
-- [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers.git) : A chinese tutorial of ChatGPT for Developers, contains three classes of AndrewNg.
-
-- [Datawhale NLP 夏令营-Baseline](https://vj6fpcxa05.feishu.cn/docx/DIged2HfIojIYlxWP9Hc2x0UnVd): A baseline for the iFLYTEK algorithm competition, a core class in DataWhale AI summer camp.4
-
-- [InternLM-tutorial](https://github.com/InternLM/tutorial.git) ：书生·浦语大模型实战营，第二节《轻松分钟玩转书生·浦语大模型趣味 Demo》负责人~
-
-- [Tianji](https://github.com/SocialAI-tianji/Tianji): An AI system which can be utilized for tasks involving worldly wisdom to enhance your emotional intelligence.
-
-## Internship Experience 🏢
-
-- 2024.06 - 2024.08 **Yunqi Academy of Engineering** - Research Assistant
-  - Conducted research on applying large language models to urban management scenarios and published a research paper.
-  - Investigated potential applications of LLMs in city administration, planning and governance.
-  - Paper: [*What can LLM tell us about cities?*](https://arxiv.org/abs/2411.16791)
-
-
-## Competition
-
-- chat嬛嬛，获得[书生·浦语大模型挑战赛（春季赛）Top12](https://mp.weixin.qq.com/s/8Xh232cWplgg3qdfMdD0YQ)，创意应用奖。
-
-- AMchat，获得[书生·浦语大模型挑战赛（春季赛）Top12](https://mp.weixin.qq.com/s/8Xh232cWplgg3qdfMdD0YQ)，创意应用奖。
-
-- [科大讯飞算法赛-基于论文摘要的文本分类与关键词抽取挑战赛](http://challenge.xfyun.cn/topic/info?type=abstract-of-the-paper): NLP competition of iFLYTEK, **Top 3**.
-
-- [科大讯飞算法赛-人岗匹配挑战赛](http://challenge.xfyun.cn/topic/info?type=person-post-matching-2023): NLP competition of iFLYTEK, **Top3**.
-
-- [星火杯认知大模型场景创新赛](http://challenge.xfyun.cn/xinghuo)：LLM competition of iFLYTEK, **Top 50**, still in competition.
-
-## GitHub Stats 📫
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=KMnO4-zx&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=KMnO4-zx&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
-    align="left" />
-</picture>
