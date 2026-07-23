@@ -4,7 +4,7 @@
 
 <p align="center">
   <br>
-  <b><i>靡不有初，鲜克有终。</i></b>
+  <i>靡不有初，鲜克有终。</i>
 </p>
 
 <p align="center">
