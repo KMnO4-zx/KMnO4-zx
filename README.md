@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://kmno4-zx.github.io/KMnO4-zx/"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-kmno4--zx.github.io-007cff?style=flat"></a>
   <a href="https://www.zhihu.com/people/feng-qi-xia-pian"><img alt="Zhihu" src="https://img.shields.io/badge/Zhihu-知乎-4362F6?style=flat"></a>
   <a href="https://www.xiaohongshu.com/user/profile/63c2055e000000002502c58c"><img alt="Xiaohongshu" src="https://img.shields.io/badge/Xiaohongshu-小红书-FF2442?style=flat"></a>
   <a href="mailto:kmno4-song@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-6A5ACD?style=flat"></a>
