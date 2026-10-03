@@ -17,9 +17,9 @@
   --hairline: rgba(0, 47, 91, 0.12);
   --card-shadow: 0 1px 2px rgba(0, 47, 91, 0.05), 0 4px 14px rgba(0, 47, 91, 0.06);
   --card-shadow-hover: 0 2px 4px rgba(0, 47, 91, 0.07), 0 14px 34px rgba(0, 47, 91, 0.14);
-  --serif: "Sentient", "Noto Serif SC", Georgia, "Times New Roman", serif;
-  --sans: "Inter Variable", "Inter", -apple-system, "PingFang SC", "Helvetica Neue", sans-serif;
-  --mono: "Geist Mono Variable", "Geist Mono", "SFMono-Regular", Consolas, "Courier New", monospace;
+  --serif: "Sentient", "LXGW WenKai", Georgia, "Times New Roman", serif;
+  --sans: "Inter Variable", "Inter", "LXGW WenKai", -apple-system, "PingFang SC", "Helvetica Neue", sans-serif;
+  --mono: "Geist Mono Variable", "Geist Mono", "LXGW WenKai", "SFMono-Regular", Consolas, "Courier New", monospace;
   --sidebar-w: minmax(300px, 5fr);
   --content-w: minmax(0, 7fr);
 }
@@ -123,21 +123,32 @@ a:focus-visible, .note:focus-visible {
 .lang-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
 .lang-sep { color: var(--ink-faint); margin: 0 0.15rem; }
 
+.identity {
+  display: flex;
+  align-items: center;
+  gap: 1.1rem;
+  margin: 1.3rem 0 0.9rem;
+}
+.avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 2px solid rgba(0, 124, 255, 0.35);
+  box-shadow: 0 6px 18px rgba(0, 47, 91, 0.16);
+  transition: transform 0.25s ease, border-color 0.25s ease;
+}
+.avatar:hover { transform: scale(1.05); border-color: var(--accent); }
+
 .name {
-  font-family: var(--serif);
-  font-size: clamp(2.6rem, 4.5vw, 3.4rem);
-  font-weight: 700;
+  font-family: "LXGW WenKai", var(--serif);
+  font-size: clamp(2rem, 3.2vw, 2.4rem);
+  font-weight: 400;
   line-height: 1.05;
   letter-spacing: -0.01em;
 }
 .name sub { font-size: 0.55em; }
-
-.alias {
-  margin-top: 0.5rem;
-  font-size: 0.85rem;
-  letter-spacing: 0.04em;
-  color: var(--ink-faint);
-}
 
 .role {
   font-family: var(--serif);

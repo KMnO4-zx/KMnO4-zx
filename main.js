@@ -21,7 +21,6 @@
   const I18N = {
     en: {
       "doc.title": "KMnO4-zx — Open-source Developer & Researcher",
-      "alias": "aka 不要葱姜蒜",
       "motto": "靡不有初，鲜克有终。",
       "role": `Open-source Developer <span class="amp">&</span> Researcher`,
       "tagline": `I study how LLM agents learn to act — Agent RL, post-training, and agentic systems. Along the way I build open-source things that people actually use.`,
@@ -57,7 +56,6 @@
     },
     zh: {
       "doc.title": "KMnO4-zx — 开源开发者与研究者",
-      "alias": "不要葱姜蒜",
       "motto": "靡不有初，鲜克有终。",
       "role": `开源开发者 <span class="amp">&</span> 研究者`,
       "tagline": `我研究 LLM Agent 如何学会「做事」——Agent RL、后训练与智能体系统。平时也写一些真正有人用的开源项目。`,
