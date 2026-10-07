@@ -413,6 +413,14 @@ a:focus-visible, .note:focus-visible {
 }
 .footer p { font-size: 0.76rem; color: var(--ink-faint); letter-spacing: 0.03em; }
 
+.views { margin-top: 0.9rem; font-size: 0.78rem; color: var(--ink-faint); letter-spacing: 0.03em; }
+.views-sep { margin: 0 0.35rem; }
+
+/* keep busuanzi value spans outside data-i18n; toggle static labels via html lang */
+.en-only, .zh-only { display: none; }
+html[lang="en"] .en-only { display: inline; }
+html[lang="zh-CN"] .zh-only { display: inline; }
+
 /* ---------- scroll reveal ---------- */
 .reveal { opacity: 0; transform: translateY(22px); transition: opacity 0.7s ease, transform 0.7s ease; }
 .reveal.visible { opacity: 1; transform: none; }
