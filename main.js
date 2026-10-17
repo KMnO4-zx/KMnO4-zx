@@ -310,7 +310,7 @@
   // apply initial language (default EN, or the visitor's previous choice)
   applyLang(savedLang || "en");
 
-  /* ---------- 5. live GitHub star counts ---------- */
+  /* ---------- 5. live GitHub star counts (overwrites the static fallback) ---------- */
   const repoEls = [...document.querySelectorAll("[data-repo]")];
   if (repoEls.length) {
     const fmt = (n) => (n >= 1000 ? (n / 1000).toFixed(1).replace(/\.0$/, "") + "k" : String(n));
@@ -325,5 +325,26 @@
         }
       } catch (_) { /* offline or rate-limited: leave blank */ }
     });
+  }
+
+  /* ---------- 6. view counter: keep a sane fallback ---------- */
+  const pvEl = document.getElementById("busuanzi_value_site_pv");
+  const uvEl = document.getElementById("busuanzi_value_site_uv");
+  if (pvEl && uvEl) {
+    const fallback = { pv: "46", uv: "25" };
+    const sane = (n) => /^\d+$/.test(n) && +n > 0 && +n < 1e6;
+    const keepSane = () => {
+      const pv = pvEl.textContent.trim();
+      const uv = uvEl.textContent.trim();
+      if (!sane(pv) || !sane(uv)) {
+        pvEl.textContent = fallback.pv;
+        uvEl.textContent = fallback.uv;
+      }
+    };
+    const mo = new MutationObserver(keepSane);
+    mo.observe(pvEl, { childList: true, characterData: true, subtree: true });
+    mo.observe(uvEl, { childList: true, characterData: true, subtree: true });
+    keepSane();
+    window.setTimeout(() => { keepSane(); mo.disconnect(); }, 8000);
   }
 })();
