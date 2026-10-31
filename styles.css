@@ -246,6 +246,21 @@ a:focus-visible, .note:focus-visible {
 /* align the first content row with the sidebar's eyebrow row */
 .content > .section:first-child > .sec-head { min-height: 2.6rem; }
 
+/* ---------- ASCII whales swimming behind the whole page ---------- */
+.ascii-ocean {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+.ascii-ocean canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  font-family: var(--mono);
+}
+
 /* about */
 .about-body p { color: var(--ink-soft); margin-bottom: 1.1rem; max-width: 62ch; }
 .about-body strong { color: var(--ink); font-weight: 600; }
