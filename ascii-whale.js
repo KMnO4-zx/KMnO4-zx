@@ -1608,12 +1608,14 @@
   };
 
   // ../../../../../../private/tmp/kmno4-ascii-sharks-port-20261101/entry.ts
-  var canvas = document.querySelector("#asciiWhale");
-  if (canvas) {
-    new OceanEngine(canvas, [
-      { kind: "whale", size: 1 },
-      { kind: "whale", size: 0.74 },
-      { kind: "whale", size: 0.56 }
-    ]);
-  }
+  // Factory instead of auto-boot: main.js picks whale (daily) or xmas scene.
+  window.AsciiOcean = {
+    create(canvas2) {
+      return new OceanEngine(canvas2, [
+        { kind: "whale", size: 1 },
+        { kind: "whale", size: 0.74 },
+        { kind: "whale", size: 0.56 }
+      ]);
+    }
+  };
 })();
