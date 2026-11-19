@@ -135,6 +135,23 @@ a:focus-visible, .note:focus-visible {
 .lang-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
 .lang-sep { color: var(--ink-faint); margin: 0 0.15rem; }
 
+/* scene toggle (daily whales ↔ christmas trees) */
+.eyebrow-controls { display: flex; align-items: center; gap: 0.9rem; }
+.scene-toggle {
+  background: none;
+  border: 1px solid var(--hairline);
+  border-radius: 999px;
+  padding: 0.12rem 0.6rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+.scene-toggle:hover { color: var(--accent); border-color: var(--accent); }
+body.xmas .scene-toggle { color: var(--accent); border-color: rgba(255, 209, 102, 0.4); }
+
 .identity {
   display: flex;
   align-items: center;
@@ -246,7 +263,7 @@ a:focus-visible, .note:focus-visible {
 /* align the first content row with the sidebar's eyebrow row */
 .content > .section:first-child > .sec-head { min-height: 2.6rem; }
 
-/* ---------- ASCII whales swimming behind the whole page ---------- */
+/* ---------- ASCII scene behind the whole page (whales / christmas trees) ---------- */
 .ascii-ocean {
   position: fixed;
   inset: 0;
@@ -260,6 +277,20 @@ a:focus-visible, .note:focus-visible {
   height: 100%;
   font-family: var(--mono);
 }
+/* live readout, bottom-left — only in the christmas scene */
+.xmas-caption {
+  position: absolute;
+  left: clamp(1rem, 3vw, 2.2rem);
+  bottom: clamp(1rem, 3vh, 1.8rem);
+  display: none;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  line-height: 1.7;
+  color: rgba(226, 238, 252, 0.82);
+  text-shadow: 0 1px 8px rgba(4, 10, 22, 0.85);
+}
+.xmas-stats { display: block; color: rgba(180, 205, 235, 0.62); }
+body.xmas .xmas-caption { display: block; }
 
 /* about */
 .about-body p { color: var(--ink-soft); margin-bottom: 1.1rem; max-width: 62ch; }
@@ -551,3 +582,76 @@ html[lang="zh-CN"] .zh-only { display: inline; }
   .reveal { opacity: 1; transform: none; transition: none; }
   * { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
 }
+
+/* ============================================================
+   Christmas night theme — active while the xmas scene is on.
+   Deep navy starry night, warm gold + icy blue accents; the
+   sticky notes stay white paper, like notes on a desk at night.
+   ============================================================ */
+body.xmas {
+  --bg: #0e2140;
+  --bg-deep: #0a1830;
+  --surface: #132540;
+  --ink: #e9f1fb;
+  --ink-soft: rgba(220, 233, 248, 0.74);
+  --ink-faint: rgba(196, 214, 238, 0.52);
+  --accent: #ffd166;
+  --accent-2: #8fd3ff;
+  --accent-3: #ff6b5e;
+  --hairline: rgba(158, 190, 232, 0.16);
+  --card-shadow: 0 1px 2px rgba(2, 6, 14, 0.5), 0 6px 20px rgba(2, 6, 14, 0.4);
+  --card-shadow-hover: 0 2px 6px rgba(2, 6, 14, 0.55), 0 16px 40px rgba(2, 6, 14, 0.55);
+  /* deep blue night, a touch lighter toward the snowy horizon */
+  background: linear-gradient(180deg, #0b1830 0%, #102547 55%, #143059 100%);
+}
+body.xmas ::selection { background: rgba(255, 209, 102, 0.28); }
+/* soft dark glow keeps text legible where trees drift behind it */
+body.xmas .sidebar, body.xmas .content {
+  text-shadow: 0 0 14px rgba(7, 12, 23, 0.65), 0 1px 3px rgba(7, 12, 23, 0.5);
+}
+body.xmas .note { text-shadow: none; }
+body.xmas .spotlight {
+  background: radial-gradient(
+    560px circle at var(--mx, 50%) var(--my, 30%),
+    rgba(255, 209, 102, 0.07),
+    rgba(143, 211, 255, 0.035) 42%,
+    transparent 68%
+  );
+}
+body.xmas .avatar {
+  border-color: rgba(255, 209, 102, 0.45);
+  box-shadow: 0 6px 22px rgba(2, 6, 14, 0.6);
+}
+body.xmas .proj-card:hover { border-color: rgba(255, 209, 102, 0.4); }
+body.xmas .notes-wall {
+  background:
+    linear-gradient(180deg, rgba(143, 211, 255, 0.05), rgba(143, 211, 255, 0) 22%),
+    var(--surface);
+  box-shadow:
+    inset 0 2px 12px rgba(2, 6, 14, 0.5),
+    inset 0 0 60px rgba(2, 6, 14, 0.3);
+}
+body.xmas .note {
+  box-shadow:
+    0 1px 2px rgba(2, 6, 14, 0.5),
+    0 8px 20px rgba(2, 6, 14, 0.45),
+    0 18px 44px rgba(2, 6, 14, 0.4);
+}
+body.xmas .note:hover {
+  box-shadow:
+    0 2px 4px rgba(2, 6, 14, 0.55),
+    0 14px 30px rgba(2, 6, 14, 0.55),
+    0 28px 64px rgba(2, 6, 14, 0.5);
+}
+body.xmas .note.dragging {
+  box-shadow:
+    0 4px 8px rgba(2, 6, 14, 0.6),
+    0 22px 48px rgba(2, 6, 14, 0.65),
+    0 42px 92px rgba(2, 6, 14, 0.6);
+}
+/* festive washi tape on the notes */
+body.xmas .note::before {
+  background: linear-gradient(180deg, rgba(255, 209, 102, 0.42), rgba(255, 107, 94, 0.32));
+}
+/* note text sits on white paper — keep its ink dark in the night theme */
+body.xmas .note .note-tag { color: rgba(0, 47, 91, 0.5); }

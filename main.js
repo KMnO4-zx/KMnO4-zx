@@ -25,7 +25,7 @@
       "role": `Open-source Developer <span class="amp">&</span> Researcher`,
       "tagline": `I study how LLM agents learn to act — Agent RL, post-training, and agentic systems. Along the way I build open-source things that people actually use.`,
       "nav.about": "About", "nav.experience": "Experience", "nav.projects": "Projects", "nav.notes": "Notes",
-      "about.p1": `I'm an open-source developer and researcher focused on <strong>Agent RL</strong>, <strong>LLM post-training</strong>, and <strong>AI agents</strong>. Projects I build and maintain have earned <strong>100,000+ GitHub stars</strong> in total — including <a href="https://github.com/datawhalechina/happy-llm" target="_blank" rel="noopener">Happy-LLM</a>, <a href="https://github.com/datawhalechina/self-llm" target="_blank" rel="noopener">self-llm</a>, and <a href="https://github.com/KMnO4-zx/agentic-rl-lab" target="_blank" rel="noopener">agentic-rl-lab</a>.`,
+      "about.p1": `I'm an open-source developer and researcher focused on <strong>Agent RL</strong>, <strong>LLM post-training</strong>, and <strong>AI agents</strong>. Projects I build and maintain have earned <strong>100,000+ GitHub stars</strong> in total — including <a href="https://github.com/datawhalechina/happy-llm" target="_blank" rel="noopener">Happy-LLM</a>, <a href="https://github.com/datawhalechina/self-llm" target="_blank" rel="noopener">self-llm</a>, and <a href="https://github.com/datawhalechina/agentic-rl-lab" target="_blank" rel="noopener">agentic-rl-lab</a>.`,
       "about.p2": `Currently I'm a PhD student at <strong>Xidian University</strong> and a researcher at <strong>Emotion Machine Lab</strong>, where I also work across developer growth and the open-source community. Previously I was a research assistant at <strong>Westlake University, AGI Lab</strong> — where my first-author paper <a href="https://aclanthology.org/2026.findings-acl.983/" target="_blank" rel="noopener"><em>Hard to Read, Easy to Jailbreak</em></a> was published at <strong>Findings of ACL 2026</strong> — and at <strong>Yunqi Academy of Engineering</strong>.`,
       "chip.1": "Agent RL", "chip.2": "LLM Post-training", "chip.3": "AI Agents", "chip.4": "Multimodal Safety",
       "xp1.period": "Present",
@@ -53,6 +53,9 @@
       "proj.more": "view full archive →",
       "notes.hint": `A wall of sticky notes — what I'm up to and random thoughts. On desktop you can <strong>drag them around</strong>; the arrangement is saved in your browser.`,
       "footer": "Designed &amp; built by KMnO4-zx · plain HTML/CSS/JS, no frameworks",
+      "scene.xmas": "xmas", "scene.daily": "daily",
+      "scene.toXmas": "Switch to the Christmas scene — rotating ASCII trees, lights & gifts 🎄",
+      "scene.toDaily": "Back to the everyday whale ocean 🐋",
     },
     zh: {
       "doc.title": "KMnO4-zx — 开源开发者与研究者",
@@ -60,7 +63,7 @@
       "role": `开源开发者 <span class="amp">&</span> 研究者`,
       "tagline": `我研究 LLM Agent 如何学会「做事」——Agent RL、后训练与智能体系统。平时也写一些真正有人用的开源项目。`,
       "nav.about": "关于", "nav.experience": "经历", "nav.projects": "项目", "nav.notes": "便签",
-      "about.p1": `我是一名开源开发者与研究者，专注于 <strong>Agent RL</strong>、<strong>LLM 后训练</strong>与 <strong>AI 智能体</strong>。我创建和维护的开源项目累计获得 <strong>100,000+ GitHub stars</strong>，包括 <a href="https://github.com/datawhalechina/happy-llm" target="_blank" rel="noopener">Happy-LLM</a>、<a href="https://github.com/datawhalechina/self-llm" target="_blank" rel="noopener">self-llm</a> 与 <a href="https://github.com/KMnO4-zx/agentic-rl-lab" target="_blank" rel="noopener">agentic-rl-lab</a>。`,
+      "about.p1": `我是一名开源开发者与研究者，专注于 <strong>Agent RL</strong>、<strong>LLM 后训练</strong>与 <strong>AI 智能体</strong>。我创建和维护的开源项目累计获得 <strong>100,000+ GitHub stars</strong>，包括 <a href="https://github.com/datawhalechina/happy-llm" target="_blank" rel="noopener">Happy-LLM</a>、<a href="https://github.com/datawhalechina/self-llm" target="_blank" rel="noopener">self-llm</a> 与 <a href="https://github.com/datawhalechina/agentic-rl-lab" target="_blank" rel="noopener">agentic-rl-lab</a>。`,
       "about.p2": `目前我在 <strong>西安电子科技大学</strong> 攻读博士学位，同时在 <strong>Emotion Machine Lab</strong> 做研究，负责开发者增长与开源社区运营。此前我曾在 <strong>西湖大学 AGI Lab</strong> 担任研究助理——一作论文 <a href="https://aclanthology.org/2026.findings-acl.983/" target="_blank" rel="noopener"><em>Hard to Read, Easy to Jailbreak</em></a> 发表于 <strong>Findings of ACL 2026</strong>——也曾在 <strong>云栖工程研究院</strong> 工作。`,
       "chip.1": "Agent RL", "chip.2": "LLM 后训练", "chip.3": "AI 智能体", "chip.4": "多模态安全",
       "xp1.period": "至今",
@@ -88,6 +91,9 @@
       "proj.more": "查看完整项目 →",
       "notes.hint": `一面便签墙，写点近况和碎碎念。桌面端可以<strong>随手拖动</strong>，摆成你喜欢的样子 —— 位置会记在你的浏览器里。`,
       "footer": "由 KMnO4-zx 设计与构建 · 纯 HTML/CSS/JS，无框架",
+      "scene.xmas": "圣诞", "scene.daily": "日常",
+      "scene.toXmas": "切换到圣诞场景——会转圈的 ASCII 圣诞树、彩灯和礼物 🎄",
+      "scene.toDaily": "回到日常的小鲸鱼海洋 🐋",
     },
   };
 
@@ -118,6 +124,7 @@
       b.classList.toggle("active", b.dataset.lang === lang)
     );
     try { localStorage.setItem(LANG_KEY, lang); } catch (_) { /* ignore */ }
+    updateSceneBtn();
   };
 
   const savedLang = (() => {
@@ -306,6 +313,54 @@
       }, 200);
     });
   }
+
+  /* ---------- 6.5 background scene: daily whales ↔ christmas trees ---------- */
+  // Auto-default to the Christmas scene during the season (Dec 1 – Dec 26);
+  // a manual toggle choice is remembered and always wins over the calendar.
+  const SCENE_KEY = "kmno4.scene";
+  const sceneCanvas = document.getElementById("asciiWhale");
+  const sceneBtn = document.querySelector(".scene-toggle");
+  const xmasStats = document.getElementById("xmasStats");
+  const inXmasSeason = () => { const d = new Date(); return d.getMonth() === 11 && d.getDate() <= 26; };
+  let scene = (() => {
+    try {
+      const s = localStorage.getItem(SCENE_KEY);
+      if (s === "daily" || s === "xmas") return s;
+    } catch (_) { /* ignore */ }
+    return inXmasSeason() ? "xmas" : "daily";
+  })();
+  let sceneEngine = null;
+
+  function updateSceneBtn() {
+    if (!sceneBtn) return;
+    const toXmas = scene === "daily";
+    sceneBtn.textContent = toXmas
+      ? "🎄 " + I18N[currentLang]["scene.xmas"]
+      : "🐋 " + I18N[currentLang]["scene.daily"];
+    const title = I18N[currentLang][toXmas ? "scene.toXmas" : "scene.toDaily"];
+    sceneBtn.title = title;
+    sceneBtn.setAttribute("aria-label", title);
+    sceneBtn.setAttribute("aria-pressed", String(scene === "xmas"));
+  }
+
+  function applyScene(mode, persist) {
+    scene = mode;
+    if (persist) { try { localStorage.setItem(SCENE_KEY, mode); } catch (_) { /* ignore */ } }
+    document.body.classList.toggle("xmas", mode === "xmas");
+    if (sceneEngine) { sceneEngine.destroy(); sceneEngine = null; }
+    if (sceneCanvas) {
+      const factory = mode === "xmas" ? window.AsciiXmas : window.AsciiOcean;
+      if (factory && factory.create) {
+        sceneEngine = factory.create(sceneCanvas, { statsEl: xmasStats });
+      }
+    }
+    updateSceneBtn();
+  }
+
+  if (sceneBtn) {
+    sceneBtn.addEventListener("click", () => applyScene(scene === "xmas" ? "daily" : "xmas", true));
+  }
+  applyScene(scene, false);
 
   // apply initial language (default EN, or the visitor's previous choice)
   applyLang(savedLang || "en");
