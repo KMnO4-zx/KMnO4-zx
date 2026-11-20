@@ -56,6 +56,13 @@
       "scene.xmas": "xmas", "scene.daily": "daily",
       "scene.toXmas": "Switch to the Christmas scene — rotating ASCII trees, lights & gifts 🎄",
       "scene.toDaily": "Back to the everyday whale ocean 🐋",
+      // achievements:i18n:start (auto-synced by scripts/sync-achievements.py)
+      "ach.yolo": "YOLO — merged a pull request without review",
+      "ach.starstruck": "Starstruck x4 — created a repository with 4,096+ stars",
+      "ach.quickdraw": "Quickdraw — closed an issue or PR within 5 minutes of opening",
+      "ach.pair-extraordinaire": "Pair Extraordinaire — coauthored commits on merged pull requests",
+      "ach.pull-shark": "Pull Shark x2 — 16 pull requests merged",
+      // achievements:i18n:end
     },
     zh: {
       "doc.title": "KMnO4-zx — 开源开发者与研究者",
@@ -94,6 +101,13 @@
       "scene.xmas": "圣诞", "scene.daily": "日常",
       "scene.toXmas": "切换到圣诞场景——会转圈的 ASCII 圣诞树、彩灯和礼物 🎄",
       "scene.toDaily": "回到日常的小鲸鱼海洋 🐋",
+      // achievements:i18n:start (auto-synced by scripts/sync-achievements.py)
+      "ach.yolo": "YOLO — 未经 review 直接合并了 PR",
+      "ach.starstruck": "Starstruck x4 — 创建的仓库获得 4,096+ stars",
+      "ach.quickdraw": "Quickdraw — 在 issue/PR 打开后 5 分钟内将其关闭",
+      "ach.pair-extraordinaire": "Pair Extraordinaire — 在被合并的 PR 中共同署名提交",
+      "ach.pull-shark": "Pull Shark x2 — 已有 16 个 PR 被合并",
+      // achievements:i18n:end
     },
   };
 
@@ -119,6 +133,10 @@
     document.querySelectorAll("[data-i18n]").forEach((el) => {
       const v = I18N[lang][el.dataset.i18n];
       if (v !== undefined) el.innerHTML = v;
+    });
+    document.querySelectorAll("[data-i18n-title]").forEach((el) => {
+      const v = I18N[lang][el.dataset.i18nTitle];
+      if (v !== undefined) el.title = v;
     });
     document.querySelectorAll(".lang-btn").forEach((b) =>
       b.classList.toggle("active", b.dataset.lang === lang)
