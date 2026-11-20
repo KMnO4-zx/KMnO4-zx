@@ -238,6 +238,44 @@ body.xmas .scene-toggle { color: var(--accent); border-color: rgba(255, 209, 102
   color: var(--ink-faint);
 }
 
+/* github achievement badges */
+.achievements {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 1.15rem;
+}
+.achievement {
+  position: relative;
+  display: inline-flex;
+  border: none;
+  border-radius: 50%;
+  transition: transform 0.2s ease;
+}
+.achievement img {
+  display: block;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+}
+.achievement:hover { transform: translateY(-3px) scale(1.07); }
+.ach-tier {
+  position: absolute;
+  right: -0.3rem;
+  bottom: -0.15rem;
+  padding: 0.16rem 0.32rem;
+  border-radius: 999px;
+  font-size: 0.6rem;
+  line-height: 1;
+  color: #002f5b;
+  box-shadow: 0 1px 3px rgba(0, 47, 91, 0.3);
+}
+.tier-gold { background: #ffd33d; }
+.tier-silver { background: #d4dde8; }
+.tier-bronze { background: #ffc2a1; }
+
 /* ---------- content ---------- */
 .content { padding: clamp(3rem, 9vh, 6rem) 0 2rem; min-width: 0; }
 
@@ -538,6 +576,8 @@ html[lang="zh-CN"] .zh-only { display: inline; }
   .role { margin-top: 0.4rem; font-size: 1.1rem; }
   .tagline { margin-top: 0.8rem; font-size: 0.92rem; }
   .motto-line { margin-top: 0.6rem; }
+  .achievements { margin-top: 0.7rem; gap: 0.45rem; }
+  .achievement img { width: 40px; height: 40px; }
   .views { margin-top: 0.55rem; font-size: 0.72rem; }
   .nav { margin-top: 1.1rem; }
   .nav-link { padding: 0.45rem 0; }
